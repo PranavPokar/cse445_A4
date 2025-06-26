@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+        xsi:schemaLocation="Hotels.xsd">
 
   <!-- 1. Sample from Figure 1 -->
   <Hotel NearestAirport="Sky Harbor" Rating="4.2">
@@ -9,7 +9,7 @@
     <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
-      <Street>E.7th St</Street>
+      <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
